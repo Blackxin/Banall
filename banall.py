@@ -8,7 +8,7 @@ os.system("pip3 install pyaes")
 import asyncio
 from pyrogram import Client,filters, idle
 from pyrogram.types import *
-from config import API_ID, API_HASH, BOT_TOKEN,
+from config import API_ID, API_HASH, BOT_TOKEN
 
 import logging
 from pyrogram.errors import (
@@ -28,7 +28,7 @@ BOT_TOKEN = BOT_TOKEN
 
 blaze = Client(
             ":memory:",
-            api_id=Config.API_ID,
+            api_id=API_ID,
             api_hash=API_HASH,
             bot_token=BOT_TOKEN
 )

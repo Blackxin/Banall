@@ -1,3 +1,6 @@
+import os
+
+
 API_ID = '' # YOUR TELEGRAM API_ID INSIDE ''
 
 API_HASH = "" # YOUR TELEGRAM API_HASH INSIDE ""

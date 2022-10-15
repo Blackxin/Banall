@@ -22,6 +22,10 @@ logging.basicConfig(
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
+API_ID = API_ID
+API_HASH = API_HASH
+BOT_TOKEN = BOT_TOKEN
+
 blaze = Client(
             ":memory:",
             api_id=Config.API_ID,

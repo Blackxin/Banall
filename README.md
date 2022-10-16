@@ -1,4 +1,4 @@
-# 𝙳𝙴𝙰𝙳𝙻𝚈 𝙱𝙰𝙽𝙰𝙻𝙻
+# 𝙳𝙴𝙰𝙳𝙻𝚈 𝙱𝙰𝙽𝙰𝙻𝙻 🚫
 
 <p align="center"><img src="https://telegra.ph/file/3cdb65b6d72babdb39941.jpg" alt="ICON" width="250" height="250"/></p>
 

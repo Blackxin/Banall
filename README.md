@@ -10,6 +10,8 @@ ______________________________
 For any query or want to know how it works join 👇
 ### <a href="https://t.me/TheDeadlyBots"><img src="https://telegra.ph/file/8ef5ff8acca6c6e4c7dd7.jpg?logo=Telegram"></a>
 
+______________________________
+
 ## 𝚅𝙿𝚂 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃 🚀
 
 Clone This Repo to Your Terminal By Below Commands First.
@@ -44,6 +46,12 @@ run the bot by using python3.
 kali@kali: ~ $ python3 banall.py
 
 ```
+______________________________
 
 For Mor Guide Move to [Support 🚨](https://t.me/TheDeadlyBots)
 
+______________________________
+
+## 𝙲𝚁𝙴𝙳𝙸𝚃 
+
+[Pyrogram](https://www.pyrogram.org)

@@ -3,9 +3,7 @@
 A Banall Bot Made With [Pyrogram](https://docs.pyrogram.org/)  To Destroy Groups On [Telegram](https://telegram.org/).
 Speed Depends upon Your Server Speed.
 
-## DEPLOYMENT [ONLY VPS/WORKFLOW]
-
-### 𝚅𝙿𝚂 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃 🚀
+## 𝚅𝙿𝚂 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃 🚀
 
 Clone This Repo to Your Terminal By Below Commands First.
 

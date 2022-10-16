@@ -11,9 +11,9 @@ Speed Depends upon Your Server Speed.
 ```console
 kali@kali: ~ $ git clone https://github.com/Elric-xD/Banall
 
-kali@kaali: ~ $ cd Banall
+kali@kali: ~ $ cd Banall
 
 kali@kali: ~ $ nano config.py # fill the vars by editing config.py
 
-kali@lunix: ~ $ python3 banall.py
+kali@kali: ~ $ python3 banall.py
 ```

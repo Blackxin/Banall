@@ -5,6 +5,8 @@
 A Banall Bot Made With [Pyrogram](https://docs.pyrogram.org/)  To Destroy Groups On [Telegram](https://telegram.org/).
 Speed Depends upon Your Server Speed.
 
+______________________________
+
 For any query or want to know how it works join 👇
 ### <a href="https://t.me/TheDeadlyBots"><img src="https://telegra.ph/file/8ef5ff8acca6c6e4c7dd7.jpg?logo=Telegram"></a>
 

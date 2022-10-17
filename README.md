@@ -57,3 +57,7 @@ ______________________________
 [Pyrogram](https://www.pyrogram.org)
 
 [Blaze](https://t.me/Elric_xD)
+
+[Sammy](https://t.me/SonOfTyagi)
+
+[Akki](https://t.me/GodFatherAkki)
